@@ -1,5 +1,5 @@
 {
-  "name": "expressappwithpolymer",
+  "name": "express-with-polymer",
   "version": "0.0.1",
   "description": "Express app with polymer in frontend",
   "main": "server.coffee",

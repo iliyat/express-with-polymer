@@ -6,7 +6,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/iliyat/express-with-polymer"
-  }
+  },
   "dependencies": {
     "express": "^4.11.0",
     "gulp": "^3.8.10",

@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Express app with polymer in frontend",
   "main": "server.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iliyat/express-with-polymer"
+  }
   "dependencies": {
     "express": "^4.11.0",
     "gulp": "^3.8.10",
